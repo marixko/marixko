@@ -7,7 +7,8 @@
 
 I'm PhD Candidate in Astronomy at the University of São Paulo, Brazil with B.Sc. in Statistics and B.Sc. in Astronomy from the same university. Curriculum Vitae and contacts can be found [in my website](https://marixko.github.io/). 
 
-- Current member of [S-PLUS](https://www.splus.iag.usp.br/) and [Turing USP](https://github.com/turing-usp)
+- Current member of [S-PLUS](https://www.splus.iag.usp.br/)
+- Current head of Research & Development of [Turing USP](https://github.com/turing-usp)
 - My pronouns are she/her/hers
 - Feel free to DM me on twitter if you have any questions about my repos or about the Universe
 - Check out my recent first-author [publication](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.1780N/abstract)! 👈
