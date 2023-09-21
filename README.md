@@ -10,7 +10,7 @@ B.Sc. in Statistics and B.Sc. in Astronomy from the same University.
 Curriculum Vitae and contacts can be found [in my website](https://marixko.github.io/). 
 
 - Current member of [S-PLUS](https://www.splus.iag.usp.br/)
-- Past vice-director (2023) and past director (2022) of Research & Development of [Turing USP](https://github.com/turing-usp)
+- Former vice-director (2023) and former director (2022) of Research & Development of [Turing USP](https://github.com/turing-usp)
 - My pronouns are she/her/hers
 - Check out my [publications](https://scholar.google.com/citations?user=-GMqHxkAAAAJ&hl=en&oi=ao)
 - I'm a cat person (very important info about me, yep)
