@@ -5,8 +5,7 @@
 
 
 
-I'm Ph.D. Candidate in Astronomy at the Universidade de São Paulo, Brazil. 
-B.Sc. in Statistics and B.Sc. in Astronomy from the same University. 
+I'm PhD in Astronomy, and B.Sc. in Statistics. I obtained my degrees at Universidade de São Paulo, Brazil.
 Curriculum Vitae and contacts can be found [in my website](https://marixko.github.io/). 
 
 - Current member of [S-PLUS](https://www.splus.iag.usp.br/)
