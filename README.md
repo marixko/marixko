@@ -8,7 +8,7 @@
 I hold a PhD in Astronomy, and a B.Sc. in Statistics. I obtained my degrees at Universidade de São Paulo, Brazil. Currently, I am a postdoctoral researcher at Instituto de Física of Universidade de São Paulo.
 Curriculum Vitae and contacts can be found [in my website](https://marixko.github.io/). 
 
-- Current member of [S-PLUS](https://www.splus.iag.usp.br/)
+- Member of [S-PLUS](https://www.splus.iag.usp.br/), [J-PAS](https://www.j-pas.org/), and [COIN](https://cosmostatistics-initiative.org/) collaborations
 - Former vice-director (2023) and former director (2022) of Research & Development of [Turing USP](https://github.com/turing-usp)
 - My pronouns are she/her/hers
 - Check out my [publications](https://scholar.google.com/citations?user=-GMqHxkAAAAJ&hl=en&oi=ao)
