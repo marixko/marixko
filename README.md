@@ -15,9 +15,8 @@ Curriculum Vitae and contacts can be found [in my website](https://marixko.githu
 - I'm a cat person (very important info about me, yep)
 
 ## Main research interests
-- Machine Learning, Data Science, Statistics
 - AGNs, QSOs, galaxy evolution, LSS
-- Stellar Astrophysics
+- Machine Learning, Data Science, Statistics
 
 ## Badges
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
